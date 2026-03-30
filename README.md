@@ -97,7 +97,7 @@ Whether you are just getting started with PowerShell in a security role or you w
 
 ## 👤 Author
 
-**Bharath Kasyap**  
+**Venkata Bharath Devulapalli**  
 Cybersecurity Engineer | PowerShell Practitioner  
 GitHub: [@Bharathkasyap](https://github.com/Bharathkasyap)
 
