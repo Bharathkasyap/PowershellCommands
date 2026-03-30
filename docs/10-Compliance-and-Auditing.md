@@ -470,4 +470,4 @@ A formatted HTML report opens in the browser showing all four sections as styled
 
 | ← Previous | Home | Next → |
 |-----------|------|--------|
-| [09 — Log Management & SIEM](09-Log-Management-SIEM.md) | [README](../README.md) | — (End of series) |
+| [09 — Log Management & SIEM](09-Log-Management-SIEM.md) | [README](../README.md) | [11 — PKI and Certificate Management](11-PKI-and-Certificate-Management.md) |
